@@ -66,12 +66,14 @@ func getPrice(coinSymbol string) (float64, error) {
 
 func main() {
 	for {
+
 		coinSymbol := "btc"
 		price, err := getPrice(coinSymbol)
 		if err != nil {
 			fmt.Printf("Failed to get price for %s: %v\n", coinSymbol, err)
 		} else {
 			fmt.Printf("Price of %s: $%.2f\n", coinSymbol, price)
+
 		}
 		time.Sleep(updateInterval)
 	}
