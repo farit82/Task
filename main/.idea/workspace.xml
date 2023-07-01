@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b80da0c-6493-4218-ae98-733024f3b0ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../task4/ABOUT THIS TEMPLATE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/css/tooplate-chilling-cafe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/fontawesome/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/img/chilling-cafe-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/img/chilling-cafe-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/img/chilling-cafe-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/img/chilling-cafe-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task4/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Task.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Task.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/0004-belyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/001-galaktika-belaya-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/0010-chernyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/0016-lajm-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/0023-siren-svetlaya-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/0025-shokolad-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/006-galaktika-chernaya-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/0536-1-pesok-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1019-lososevyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1023-svetlo-biryuzovyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1031-svetlo-rozovyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1039-sero-goluboj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1039-velyur-vanil-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1051-zelenyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1053-velyur-kakao-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1061-lnyanoj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1067-velyur-tsian-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1080-velyur-lilovyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1083-velyur-fiolet-ultra-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1112_1-volna-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1117-i-1117_1-latte-1-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1117-i-1117_1-latte-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1118-i-1118_1-imbir-1-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1118-i-1118_1-imbir-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1155-olivkovyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1167-tsian-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/1183-fiolet-ultra-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/16-sh-lajm-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/18-sh-vanil-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/20-sh-zelen-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2020-lilii-belye-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2032-rigoleto-svetlyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2033-rigoleto-temnyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2047_s-kantri-fragment-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2057_m-sosna-panderosa-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2058_fl-biskajskaya-sosna-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2060-lilii-kapuchino-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2062_s-transilvaniya-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2070-lilii-chernye-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2073_pw-dub-svetlyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2074_fl-dub-kashtan-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2075_fl-dub-kera-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/21-sh-oranzhevyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2206-mirazh-serebro-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2208-mirans-med-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/23-sh-siren-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2341_pt-mramor-nuvolato-50x50-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2343_sl-mramor-ankara_50x50-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2344_pt-rimskij-kamen-50x50-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2574-1-vanil-perlamutr-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2594-1-persik-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2716-1-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2716-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2754-i-2754_1-grafit-1-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2754-i-2754_1-grafit-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2760-i-2760_1-seryj-1-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/2760-i-2760_1-seryj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/3027_s-1-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/3027_s-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/3028_s-1-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/3028_s-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/3029_1-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/3029_s-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/3034_s-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/3158-bordo-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/3213_pt-sevilskaya-oliva-svetlaya-50x50-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/3851_s-dub-kanadskij-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/3852_p-dub-korsika-50x50-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/3853_s-dub-severnyj-50x50-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/3854_7-berlin_50x50-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/3861_rw-beloe-derevo-v-masse-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/4-velyur-belyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/4004-serebro-metallik-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/4006-metallik-krasnyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/4009-metallik-fistashka-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/4479-antik-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/4539-dub-azimut-svetlyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/4540-dub-azimut-bezh-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/4550-dub-azimut-temnyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/4551-dub-azimut-kofe-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/4571-venge-serebro-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/4572-sosna-loredo-1-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/47-lafit-antresit-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/48-lafit-bronza-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/5014-belaya-fantaziya-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/5016_pt-detrojt_50x50-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/5018_pt-fristajl_50x50-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/5019_pt-rochester-50x50-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/5126_e-pautina-bezhevaya-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/5141_mn-luna-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/5211-zoloto-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/521_pw-bereza-sandal-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/522_pw-sosna-monrepo-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/5817-krokus-vanil-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/7024_e-mramor-imperial-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/7050_m-vintazhnaya-sosna-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/7053_fl-taksus-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/734_1-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/7461_fl-redondo-1-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/7477-belyj-perlamutr-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/7612-metallik-izumrud-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/829-vyaz-ozernyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/8318_e-pautina-korichnevaya-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/946_1-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/ajsberg-glyanec-0014-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/antresit-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/arktika-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/baklazhan-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/betao-3045-1k-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/beton-7093-1k-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/blesk-krasnaya-grusha-1101-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/buk-kremovyj-70022-1k-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/cemen-720-1k-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/chernyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/derevo-pepel-8724-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/dub-atlanta-686-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/dub-delano-2088-1k-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/dub-delano-natur.-2094-1k-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/dub-mokko-2072r-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/dub-niagara-3229-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/dub-votan-2052-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/galateya-1111q-1k-300x300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/indijskoe-derevo-690-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/kastel-70019-1k-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/kokobolo-3255-m-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/korall-7059-2k-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/krymskaya-lipa-1k-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/lilii-sinenevye-2726-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/metallik-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/mramor-imperial-glyanec-7024-1-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/myatnyj-7610_7-2k-300x300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/nebesnyj-1017-300x299.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/olha-rovera-9727-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/olxa-krem-glyanec-9728-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/retro-8726-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/shokolad-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/shtukaturka-belaya-130-298x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/shtukaturka-bezhevaya-1055y-2-k-300x300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/shtukaturka-kofejnaya-1046y-2k-300x300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/shtukaturka-seraya-1479y-2k-300x300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/shtukaturka-serebryannaya-1478y-2-k.-300x300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/sosna-ontario-2092-1k-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/sosna-santorini-9746-300x300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/stromboli-grej-7351-1k-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/ultra-belyj-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/vanil-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/velyur-serebryanyj-1036-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/velyur-zelenyj-1016-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/venge-1139-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/vintazh-8725-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../task2/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/go/go1.19" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Rxv1WB66UQ3CT8PcPYhOe3Qonr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "add__task4",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/home/farit/GolandProjects/Task/main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
