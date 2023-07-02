@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript Example</title>
+    <style>
+        .moving-text {
+            position: absolute;
+            right: 0;
+            top: 50%;
+            transform: translate(100%, -50%);
+            background-color: red;
+            font-size: 50px;
+            animation: moveLeft 10s linear infinite;
+        }
+
+        @keyframes moveLeft {
+            0% { right: 0; }
+            100% { right: 100%; }
+        }
+    </style>
+</head>
+<body>
+
+<script>
+    var paragraph = document.createElement('p');
+    paragraph.textContent = 'JavaScript очень полохо знаю';
+
+    paragraph.classList.add('moving-text');
+
+    document.body.appendChild(paragraph);
+</script>
+
+</body>
+</html>
