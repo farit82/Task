@@ -38,7 +38,6 @@ func getData() ([]CoinData, error) {
 		return nil, err
 	}
 
-	// Parse JSON response
 	var coinData []CoinData
 	err = json.Unmarshal(body, &coinData)
 	if err != nil {
@@ -50,31 +49,40 @@ func getData() ([]CoinData, error) {
 	return coinData, nil
 }
 
-func getPrice(coinSymbol string) (float64, error) {
+func getPrice(coinSymbol, ethereum string) (float64, float64, error) {
 	coinData, err := getData()
 	if err != nil {
-		return 0, err
+		return 0, 0, err
 	}
+
+	var coinPrice, ethereumPrice float64
+
 	for _, coin := range coinData {
 		if coin.Symbol == coinSymbol {
-			return coin.Price, nil
+			coinPrice = coin.Price
+			fmt.Printf("Coin: %s, Price: %.2f USD\n", coin.Name, coin.Price)
+		} else if coin.Symbol == ethereum {
+			ethereumPrice = coin.Price
+			fmt.Printf("Coin: %s, Price: %.2f USD\n", coin.Name, coin.Price)
 		}
 	}
 
-	return 0, fmt.Errorf("Coin not found: %s", coinSymbol)
+	if coinPrice != 0 && ethereumPrice != 0 {
+		return coinPrice, ethereumPrice, nil
+	}
+
+	return 0, 0, fmt.Errorf("Coins not found: %s and %s", coinSymbol, ethereum)
 }
 
 func main() {
 	for {
-
 		coinSymbol := "btc"
-		price, err := getPrice(coinSymbol)
+		ethereum := "eth"
+		_, _, err := getPrice(coinSymbol, ethereum)
 		if err != nil {
-			fmt.Printf("Failed to get price for %s: %v\n", coinSymbol, err)
-		} else {
-			fmt.Printf("Price of %s: $%.2f\n", coinSymbol, price)
-
+			fmt.Printf("Error in getting course: %v\n", err)
 		}
+
 		time.Sleep(updateInterval)
 	}
 }
